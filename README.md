@@ -1,2 +1,2 @@
-# LaunchX-Katas-Semana2-EmmanuelAHernandezP
- Katas_2_Semana-2
+# LaunchX-Katas-Semana1-EmmanuelAHernandezP
+ Katas_1_Semana-1
