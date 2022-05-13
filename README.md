@@ -1,6 +1,11 @@
-# LaunchX-Katas-Semana1-EmmanuelAHernandezP
-Repositorio de Misión Front-End | Kata 1
-Proceso.
+
+# 👨🏻‍🎓 Katas Semana 1 | Desarrollo Frontend |Misión Front-end | LaunchX
+
+📖 Descripción: Actividades realizadas desde el proceso de graficación en Diagramas de Flujo, hasta el de diseño UI & UX con Adobe XD
+
+🧪 Acerca del proyecto:  Lucidchart(Sitio Web), Miro(Sitio Web), Adobe XD
+
+👨🏻‍🔬 Author: Antonicodes
 
 DIAGRAMA DE FLUJO | PROCESOS
 <br>
