@@ -7,7 +7,7 @@
 
 👨🏻‍🔬 Author: Antonicodes
 
-DIAGRAMA DE FLUJO | PROCESOS
+## DIAGRAMA DE FLUJO | PROCESOS
 <br>
 <img src="https://user-images.githubusercontent.com/58191236/164093972-eb269b68-c933-4526-bc31-e768611847c0.png" width="800"/>
 <br>
@@ -17,7 +17,7 @@ DIAGRAMA DE FLUJO | PROCESOS
 <br>
 <br>
 
-MOCKUPS | DESARROLLO DE HTML, CSS & JAVASCRIPT | RESPONSIVE
+## MOCKUPS | DESARROLLO DE HTML, CSS & JAVASCRIPT | RESPONSIVE
 ![mockup-1](https://user-images.githubusercontent.com/58191236/164118942-bab6073e-680d-4d95-a815-336884ea072b.png)
 ![mockup-2](https://user-images.githubusercontent.com/58191236/164118950-b6c9b120-6556-4572-b769-d04b1f3eefe0.png)
 ![mockup-3](https://user-images.githubusercontent.com/58191236/164118953-433ca5bb-df12-4ac3-a7f5-e3bb3a119179.png)
@@ -26,7 +26,7 @@ MOCKUPS | DESARROLLO DE HTML, CSS & JAVASCRIPT | RESPONSIVE
 <br>
 <br>
 
-WIREFRAMES | DISEÑO DE PROTOTIPOS
+## WIREFRAMES | DISEÑO DE PROTOTIPOS
 [LaunchX - Wireframe - Abogabot.pdf](https://github.com/antoni-codes/LaunchX-Semana_1-Katas_1-EmmanuelAHernandezP/files/8516399/LaunchX.-.Wireframe.-.Abogabot.pdf)
 
 <span>
@@ -48,7 +48,7 @@ WIREFRAMES | DISEÑO DE PROTOTIPOS
 <br>
 <br>
 
-USER INTERFACE | DISEÑO FINAL
+## USER INTERFACE | DISEÑO FINAL
 [Abogabot  User Interface - LaunchX.pdf](https://github.com/antoni-codes/LaunchX-Semana_1-Katas_1-EmmanuelAHernandezP/files/8516515/Abogabot.User.Interface.-.LaunchX.pdf)
 
 <span>
